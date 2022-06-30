@@ -21,7 +21,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     </engines>
 
     <!-- <dependency id="cordova-plugin-firebase-analytics" version="~6.1.0"/> -->
-     <dependency id="cordova-plugin-firebase-analytics" url="https://github.com/OutSystems/cordova-plugin-firebase-analytics.git#5.0.0-OS5"/>     
+    <dependency id="cordova-plugin-firebase-analytics" url="https://github.com/OutSystems/cordova-plugin-firebase-analytics.git#5.0.0-OS5"/>     
 
     <platform name="ios">
         <preference name="IOS_FIREBASE_POD_VERSION" default="~> 8.8.0"/>
