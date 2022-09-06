@@ -61,6 +61,8 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     </platform>
 
     <platform name="android">
+               
+        <resource-file src="google-services.json" target="./google-services.json" />
         <preference name="ANDROID_FIREBASE_MESSAGING_VERSION" default="22.0.+"/>
         <preference name="ANDROIDX_CORE_VERSION" default="1.6.+"/>
 
